@@ -1,0 +1,4 @@
+{
+  "prompt": "Use case: background-extraction. Edit target is the exact official SYNC logo in input image. Extract ONLY the existing colored logo symbol and wordmark and its small existing tagline 'REABILITAÇÃO FUNCIONAL AVANÇADA' onto a genuine transparent background. Remove beige background and empty outer margins, preserve original blue-to-teal colors, exact shapes, exact letterforms, spelling, proportions, arrangement and antialiasing. Do not redraw, redesign, add any text, effects or shadows. This is faithful background removal, not logo creation. Output a tight wide landscape transparent cutout with a small clear margin.",
+  "createdAt": "2026-10-07T20:42:00.232Z"
+}

@@ -1,0 +1,330 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-07T17:52:27-03:00",
+  "title": "Design System: Sync Clínica",
+  "extensions": {
+    "colorMeta": {
+      "teal": {
+        "role": "primary",
+        "displayName": "Petróleo vivo",
+        "canonical": "#006d78",
+        "tonalRamp": [
+          "oklch(15% 0.1 200)",
+          "oklch(27% 0.1 200)",
+          "oklch(39% 0.1 200)",
+          "oklch(51% 0.1 200)",
+          "oklch(63% 0.1 200)",
+          "oklch(75% 0.1 200)",
+          "oklch(87% 0.1 200)",
+          "oklch(95% 0.1 200)"
+        ],
+        "rampSource": "Escala sintética de exploração; não é token implementado nem substitui a cor canônica."
+      },
+      "deep": {
+        "role": "primary",
+        "displayName": "Petróleo profundo",
+        "canonical": "#00535e",
+        "tonalRamp": [
+          "oklch(15% 0.075 200)",
+          "oklch(27% 0.075 200)",
+          "oklch(39% 0.075 200)",
+          "oklch(51% 0.075 200)",
+          "oklch(63% 0.075 200)",
+          "oklch(75% 0.075 200)",
+          "oklch(87% 0.075 200)",
+          "oklch(95% 0.075 200)"
+        ],
+        "rampSource": "Escala sintética de exploração; não é token implementado nem substitui a cor canônica."
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Tinta azul-petróleo",
+        "canonical": "#143f47",
+        "tonalRamp": [
+          "oklch(15% 0.045 210)",
+          "oklch(27% 0.045 210)",
+          "oklch(39% 0.045 210)",
+          "oklch(51% 0.045 210)",
+          "oklch(63% 0.045 210)",
+          "oklch(75% 0.045 210)",
+          "oklch(87% 0.045 210)",
+          "oklch(95% 0.045 210)"
+        ],
+        "rampSource": "Escala sintética de exploração; não é token implementado nem substitui a cor canônica."
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Cinza-petróleo",
+        "canonical": "#45656a",
+        "tonalRamp": [
+          "oklch(15% 0.035 200)",
+          "oklch(27% 0.035 200)",
+          "oklch(39% 0.035 200)",
+          "oklch(51% 0.035 200)",
+          "oklch(63% 0.035 200)",
+          "oklch(75% 0.035 200)",
+          "oklch(87% 0.035 200)",
+          "oklch(95% 0.035 200)"
+        ],
+        "rampSource": "Escala sintética de exploração; não é token implementado nem substitui a cor canônica."
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Papel frio",
+        "canonical": "#f6f9f8",
+        "tonalRamp": [
+          "oklch(15% 0.005 170)",
+          "oklch(27% 0.005 170)",
+          "oklch(39% 0.005 170)",
+          "oklch(51% 0.005 170)",
+          "oklch(63% 0.005 170)",
+          "oklch(75% 0.005 170)",
+          "oklch(87% 0.005 170)",
+          "oklch(95% 0.005 170)"
+        ],
+        "rampSource": "Escala sintética de exploração; não é token implementado nem substitui a cor canônica."
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "Branco",
+        "canonical": "#fff",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(39% 0 0)",
+          "oklch(51% 0 0)",
+          "oklch(63% 0 0)",
+          "oklch(75% 0 0)",
+          "oklch(87% 0 0)",
+          "oklch(95% 0 0)"
+        ],
+        "rampSource": "Escala sintética de exploração; não é token implementado nem substitui a cor canônica."
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Linha mineral",
+        "canonical": "#d4e2e0",
+        "tonalRamp": [
+          "oklch(15% 0.015 175)",
+          "oklch(27% 0.015 175)",
+          "oklch(39% 0.015 175)",
+          "oklch(51% 0.015 175)",
+          "oklch(63% 0.015 175)",
+          "oklch(75% 0.015 175)",
+          "oklch(87% 0.015 175)",
+          "oklch(95% 0.015 175)"
+        ],
+        "rampSource": "Escala sintética de exploração; não é token implementado nem substitui a cor canônica."
+      },
+      "mist": {
+        "role": "neutral",
+        "displayName": "Névoa",
+        "canonical": "#e6f0ee",
+        "tonalRamp": [
+          "oklch(15% 0.013 175)",
+          "oklch(27% 0.013 175)",
+          "oklch(39% 0.013 175)",
+          "oklch(51% 0.013 175)",
+          "oklch(63% 0.013 175)",
+          "oklch(75% 0.013 175)",
+          "oklch(87% 0.013 175)",
+          "oklch(95% 0.013 175)"
+        ],
+        "rampSource": "Escala sintética de exploração; não é token implementado nem substitui a cor canônica."
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Cobre de foco",
+        "canonical": "#cb793c",
+        "tonalRamp": [
+          "oklch(15% 0.11 55)",
+          "oklch(27% 0.11 55)",
+          "oklch(39% 0.11 55)",
+          "oklch(51% 0.11 55)",
+          "oklch(63% 0.11 55)",
+          "oklch(75% 0.11 55)",
+          "oklch(87% 0.11 55)",
+          "oklch(95% 0.11 55)"
+        ],
+        "rampSource": "Escala sintética de exploração; não é token implementado nem substitui a cor canônica."
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Título principal."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Títulos de seção."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Título do atendimento."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Descrições."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Ações e links."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Resposta de transformações."
+      },
+      {
+        "name": "button-background",
+        "value": "0.2s ease",
+        "purpose": "Cor de hover."
+      },
+      {
+        "name": "button-press",
+        "value": "0.15s cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Escala 0.98 ao pressionar."
+      },
+      {
+        "name": "movement",
+        "value": "0.6s cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Rotação de 0, 40, -32 ou 85 graus conforme atendimento."
+      },
+      {
+        "name": "reveal",
+        "value": "650ms cubic-bezier(.16,1,.3,1)",
+        "purpose": "Entrada uma vez: opacidade .65→1 e translateY 16px→0; threshold .13."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "0.01ms",
+        "purpose": "CSS reduz transições e remove rotação; App não cria entradas e scroll torna-se auto."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact",
+        "value": "380px"
+      },
+      {
+        "name": "mobile",
+        "value": "600px"
+      },
+      {
+        "name": "mobile-navigation",
+        "value": "900px"
+      },
+      {
+        "name": "tablet",
+        "value": "1100px"
+      },
+      {
+        "name": "wide",
+        "value": "1600px"
+      }
+    ],
+    "accessibility": {
+      "focusRing": "3px solid #cb793c; outline-offset: 5px",
+      "moreContrast": {
+        "muted": "#214b51",
+        "line": "#668e90",
+        "header": "var(--paper)",
+        "photoCaption": "white"
+      }
+    },
+    "sourceFiles": [
+      "src/styles.css",
+      "src/App.tsx",
+      "PRODUCT.md",
+      "docs/DIRECAO-VISUAL.md"
+    ],
+    "fontNote": "Snippets usam \"Manrope Variable\", sans-serif; a fonte auto-hospedada deve estar disponível no documento hospedeiro."
+  },
+  "components": [
+    {
+      "name": "Botão principal",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Ação para conversar sobre avaliação; exemplo visual sem destino externo.",
+      "html": "<button class=\"ds-button\">Conversar sobre uma avaliação<svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M4 12h16m-6-6 6 6-6 6\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></button>",
+      "css": ".ds-button{display:inline-flex;gap:24px;align-items:center;justify-content:space-between;min-height:56px;background:var(--teal,#006d78);color:var(--white,#fff);border:0;border-radius:var(--radius-sm,12px);padding:17px 22px;font-family:\"Manrope Variable\",sans-serif;font-size:14px;font-weight:700;text-decoration:none;cursor:pointer;transition:background .2s ease,transform .15s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-button:active{transform:scale(.98)}.ds-button:focus-visible{outline:3px solid #cb793c;outline-offset:5px}@media(hover:hover) and (pointer:fine){.ds-button:hover{background:var(--deep,#00535e)}}@media(prefers-reduced-motion:reduce){.ds-button{transition-duration:.01ms}}"
+    },
+    {
+      "name": "Botão claro",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "Ação de contato sobre superfície escura.",
+      "html": "<div class=\"ds-dark\"><button class=\"ds-button ds-light\">Conversar sobre uma avaliação<svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M4 12h16m-6-6 6 6-6 6\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></button></div>",
+      "css": ".ds-button{display:inline-flex;gap:24px;align-items:center;justify-content:space-between;min-height:56px;background:var(--teal,#006d78);color:var(--white,#fff);border:0;border-radius:var(--radius-sm,12px);padding:17px 22px;font-family:\"Manrope Variable\",sans-serif;font-size:14px;font-weight:700;text-decoration:none;cursor:pointer;transition:background .2s ease,transform .15s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-button:active{transform:scale(.98)}.ds-button:focus-visible{outline:3px solid #cb793c;outline-offset:5px}@media(hover:hover) and (pointer:fine){.ds-button:hover{background:var(--deep,#00535e)}}@media(prefers-reduced-motion:reduce){.ds-button{transition-duration:.01ms}}.ds-dark{background:var(--deep,#00535e);padding:24px}.ds-light{background:var(--white,#fff);color:var(--deep,#00535e)}@media(hover:hover) and (pointer:fine){.ds-light:hover{background:var(--mist,#e6f0ee)}}"
+    },
+    {
+      "name": "Navegação",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Links editoriais e contato preenchido. Exibe o estado desktop; o painel móvel funcional pertence ao Header React.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Navegação de exemplo\"><a href=\"#atendimentos\">Atendimentos</a><a href=\"#equipe\">Equipe</a><a class=\"ds-nav-contact\" href=\"#contato\">Agendar avaliação<svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M4 12h16m-6-6 6 6-6 6\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a></nav>",
+      "css": ".ds-nav{display:flex;flex-wrap:wrap;align-items:center;gap:30px;background:var(--paper,#f6f9f8);color:var(--ink,#143f47);font-family:\"Manrope Variable\",sans-serif;font-size:13px;font-weight:650;padding:12px}.ds-nav a{display:flex;align-items:center;gap:12px;min-height:44px;text-decoration:none;color:inherit}.ds-nav a:focus-visible{outline:3px solid #cb793c;outline-offset:5px}.ds-nav .ds-nav-contact{background:var(--teal,#006d78);color:#fff;padding:10px 18px;border-radius:var(--radius-sm,12px)}@media(hover:hover) and (pointer:fine){.ds-nav a:hover{color:var(--teal,#006d78)}.ds-nav .ds-nav-contact:hover{background:var(--deep,#00535e);color:#fff}}@media(max-width:900px){.ds-nav{gap:18px}}"
+    },
+    {
+      "name": "Abas de atendimento",
+      "kind": "custom",
+      "refersTo": "care-tab",
+      "description": "Amostra visual de aba selecionada e não selecionada. A seleção dinâmica e atalhos ficam no Treatments React.",
+      "html": "<div class=\"ds-care\"><div class=\"ds-tabs\" role=\"tablist\" aria-label=\"Atendimentos de exemplo\"><button role=\"tab\" aria-selected=\"true\" class=\"ds-tab\"><span>Reabilitação</span><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M4 12h16m-6-6 6 6-6 6\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></button><button role=\"tab\" aria-selected=\"false\" tabindex=\"-1\" class=\"ds-tab\"><span>Recovery</span><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M4 12h16m-6-6 6 6-6 6\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></button></div></div>",
+      "css": ".ds-care{background:var(--teal,#006d78);color:#fff;border-radius:var(--radius-lg,48px);padding:32px 40px 42px}.ds-tabs{display:flex;border-bottom:1px solid #408e96;gap:24px}.ds-tab{flex:1;color:#d4e8e8;display:flex;align-items:center;justify-content:space-between;gap:12px;border:0;background:none;min-height:70px;padding:8px 0 20px;font-family:\"Manrope Variable\",sans-serif;font-size:15px;text-align:left;border-bottom:2px solid transparent;margin-bottom:-1px;cursor:pointer}.ds-tab[aria-selected=\"true\"]{color:#fff;border-color:#fff;font-weight:750}.ds-tab svg{opacity:0;transition:opacity .2s ease}.ds-tab[aria-selected=\"true\"] svg{opacity:1}.ds-tab:focus-visible{outline:3px solid #cb793c;outline-offset:5px}@media(max-width:600px){.ds-care{padding:16px 20px 26px;border-radius:28px}.ds-tabs{display:grid;grid-template-columns:1fr 1fr;gap:0 20px;border-bottom:0}.ds-tab{min-height:58px;padding:12px 0;font-size:13px;border-bottom:1px solid #408e96}.ds-tab[aria-selected=\"true\"]{border-color:#fff}.ds-tab svg{width:16px}}@media(prefers-reduced-motion:reduce){.ds-tab svg{transition-duration:.01ms}}"
+    },
+    {
+      "name": "Etapa de abordagem",
+      "kind": "card",
+      "refersTo": "approach-step",
+      "description": "Unidade editorial estática da faixa de abordagem; sem estados interativos porque o original não é acionável.",
+      "html": "<div class=\"ds-approach\"><article class=\"ds-step\"><span>Escuta</span><p>Sua história e sua rotina fazem parte da avaliação.</p></article></div>",
+      "css": ".ds-approach{background:var(--mist,#e6f0ee);padding:24px;font-family:\"Manrope Variable\",sans-serif;color:var(--ink,#143f47)}.ds-step{border-top:1px solid #a6c7c2;padding-top:22px}.ds-step span{font-size:19px;font-weight:650}.ds-step p{font-size:14px;color:var(--muted,#45656a);max-width:300px;margin:12px 0 0;line-height:1.7}@media(max-width:600px){.ds-step{padding-top:18px}.ds-step span{font-size:18px}.ds-step p{max-width:none}}"
+    },
+    {
+      "name": "Link editorial",
+      "kind": "custom",
+      "refersTo": "text-link",
+      "description": "Saída para informação complementar ou dúvidas.",
+      "html": "<a class=\"ds-link\" href=\"#conteudos\">Explorar o Instagram<svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M4 12h16m-6-6 6 6-6 6\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a>",
+      "css": ".ds-link{display:inline-flex;align-items:center;gap:18px;font-family:\"Manrope Variable\",sans-serif;color:var(--ink,#143f47);font-size:14px;font-weight:700;min-height:44px;text-decoration:underline;text-underline-offset:6px;text-decoration-color:#8aacab}.ds-link:focus-visible{outline:3px solid #cb793c;outline-offset:5px}@media(hover:hover) and (pointer:fine){.ds-link:hover{color:var(--teal,#006d78)}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Movimento em sincronia",
+    "overview": "Movimento em sincronia traduz a identidade oficial em curvas que se encontram, tipografia precisa e presença humana. Verde-petróleo, azul profundo e branco sustentam a interface; fotografias reais mantêm seus tons quentes e oferecem o contraponto material.\n\nA composição é editorial e espaçosa, com títulos densos e superfícies planas. Movimento indica mudança de estado e aproximação, sem simular medições clínicas. O conteúdo permanece legível e disponível quando animações são reduzidas.",
+    "keyCharacteristics": [
+      "Paleta oficial com contraste entre petróleo e superfícies claras.",
+      "Manrope Variable em toda a hierarquia.",
+      "Curvas recíprocas e fotografia real como assinatura.",
+      "Feedback curto, foco visível e conteúdo independente de animação."
+    ],
+    "rules": [
+      {
+        "name": "The Identidade Oficial Rule",
+        "body": "A paleta e o logo vêm dos materiais oficiais; referências de catálogo não substituem essa identidade.",
+        "section": "colors"
+      },
+      {
+        "name": "The Planos Tonais Rule",
+        "body": "Separe superfícies por cor, espaço e contorno; preserve a ausência de sombras do sistema atual.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preservar o logo oficial e os tons quentes das fotografias reais.",
+      "Do usar as curvas como expressão de reciprocidade, sem atribuir significado clínico.",
+      "Do manter títulos balanceados, texto corrido confortável e foco visível.",
+      "Do respeitar movimento reduzido e a reorganização dos componentes no celular."
+    ],
+    "donts": [
+      "Don't criar retratos artificiais de profissionais ou pacientes para substituir os materiais reais.",
+      "Don't introduzir glassmorphism arbitrário ou transformar o logo em um card.",
+      "Don't transformar curvas decorativas em gráficos de resultados ou medições.",
+      "Don't depender de hover ou de animações para revelar conteúdo essencial."
+    ]
+  }
+}
