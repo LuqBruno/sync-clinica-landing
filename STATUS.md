@@ -2,7 +2,7 @@
 
 ## Estado em 07/10/2026
 
-Demonstração comercial implementada, versão `sync-01`, compilada e testada localmente em 07/10/2026. Publicação no GitHub Pages solicitada pelo usuário. A página informa que é demonstração; não confundir com contratação ou aprovação da clínica.
+Demonstração comercial `sync-02` publicada no GitHub Pages em 07/10/2026, branch `main`, commit `32f4549`. O primeiro deploy revelou caminhos absolutos incorretos para imagens pré-renderizadas; a base foi corrigida e a publicação seguinte foi verificada online. A página informa que é demonstração; não confundir com contratação ou aprovação da clínica.
 
 ## Decisões vigentes
 
@@ -28,6 +28,7 @@ Resultados efetivos em `docs/VERIFICACOES.json` e capturas de `.impeccable/revie
 - Detector Impeccable: uma execução, sem achados mecânicos. Não constitui auditoria completa de acessibilidade.
 - Imagens: fonte local em WebP, originais e origem preservados, sem alteração de rostos. Capas ilustrativas identificadas como publicações, não atendimentos reais.
 - Não foram medidos Lighthouse, Core Web Vitals de produção ou navegação com leitor de tela; não alegar resultados desses testes.
+- GitHub Actions `37688272158` — build e deploy Pages concluídos com sucesso. Smoke test remoto: CSS e logo retornaram HTTP 200; as nove imagens da página foram decodificadas no navegador online, o H1 e CTA estavam presentes e não houve rolagem horizontal. URL testada: `https://luqbruno.github.io/sync-clinica-landing/?v=sync-02`.
 
 A primeira coleta de screenshots não aguardou corretamente imagens lazy devido à rolagem suave; o método foi corrigido e as evidências finais aguardam a decodificação de todas as imagens. Isso não foi tratado como erro comercial de publicação.
 
@@ -37,4 +38,4 @@ Autorização de marca/fotos; vetor da logo; inscrições profissionais, qualifi
 
 ## Próxima ação
 
-Aguardar a conclusão da primeira implantação no GitHub Actions e validar a versão servida. Obter aprovação dos materiais/dados da clínica antes de usar como peça comercial aprovada. Nenhuma mensagem foi enviada.
+Solicitar revisão/aprovação dos materiais e dados pela clínica antes de apresentar como peça comercial aprovada. O link publicado é público; `noindex` reduz indexação, mas não restringe acesso. Nenhuma mensagem foi enviada.
