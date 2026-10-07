@@ -510,7 +510,7 @@ function App() {
           Em sincronia com você.
         </p>
         <small>
-          Demonstração comercial local · conteúdo e uso dos materiais sujeitos à
+          Prévia comercial · conteúdo e uso dos materiais sujeitos à
           aprovação da clínica.
         </small>
       </footer>

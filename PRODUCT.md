@@ -6,7 +6,7 @@
 web
 
 ## Product Purpose
-Pedido de Bruno em 07/10/2026: produzir a landing completa a partir da identidade e imagens oficiais do Instagram. Demonstração local; contratação, aprovação e publicação não confirmadas.
+Pedido de Bruno em 07/10/2026: produzir e publicar a landing completa como prévia no GitHub Pages. Repositório/site solicitados pelo usuário; contratação e aprovação da clínica permanecem não confirmadas.
 
 ## Users
 Inferência de trabalho a partir da bio: pessoas procurando fisioterapia, do idoso ao atleta, em Tubarão. A página deve facilitar compreensão e contato para solicitar avaliação.
